@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+div {
+  position: absolute;
+  white-space: nowrap;
+}
